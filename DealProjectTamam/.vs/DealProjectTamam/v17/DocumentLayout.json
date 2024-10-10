@@ -1,0 +1,962 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|c:\\users\\jaabe\\downloads\\dealfinal\\dealfinal\\dealprojecttamam\\dealprojecttamam\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\registerclient.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\registerclient.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\registerclient.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\registerclient.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\owner2master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\owner2master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admins\\villacreation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admins\\villacreation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admins\\villacreation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admins\\villacreation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\active_booking_details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\active_booking_details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admin2\\adminroomtypej.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admin2\\adminroomtypej.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admin2\\adminroomtypej.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admin2\\adminroomtypej.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\cartvilla.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\cartvilla.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\cartvilla.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\cartvilla.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\paymentform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\paymentform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\paymentform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\paymentform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\bookingdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\bookingdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\booking_details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\booking_details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\mail_sent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\mail_sent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/D__FINALFYPWEB_DEALPROJECTTAMAM__3__DEALPROJECTTAMAM_DEALPROJECTTAMAM_APP_DATA_DEALTAMAMDB.MDF/True/SqlTable/dbo.tblOwner.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\client1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\client1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\registerowner.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\registerowner.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\registerowner.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\registerowner.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/D__FINAL_FINALDISSERTATION_GOODONE__DEALPROJECTTAMAM_DEALPROJECTTAMAM_APP_DATA_DEALTAMAMDB.MDF/True/SqlTable/dbo.tblOwner.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admin2\\newhdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admin2\\newhdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admin2\\new_hdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admin2\\new_hdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admin2\\search_hotel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admin2\\search_hotel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admins\\adminhomepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admins\\adminhomepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admins\\adminhomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admins\\adminhomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admins\\new_vdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admins\\new_vdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admins\\search_villa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admins\\search_villa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\client2.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\client2.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\villa_details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\villa_details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admins\\villa_details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admins\\villa_details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\villa_details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\villa_details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/D__FINAL_FINALDISSERTATION_GOODONE__DEALPROJECTTAMAM_DEALPROJECTTAMAM_APP_DATA_DEALTAMAMDB.MDF/True/SqlTable/dbo.tblFacilities.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\clientvilla.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\clientvilla.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admins\\villa_details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admins\\villa_details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\clienthotel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\clienthotel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\clienthotel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\clienthotel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/D__FINAL_FINALDISSERTATION_GOODONE__DEALPROJECTTAMAM_DEALPROJECTTAMAM_APP_DATA_DEALTAMAMDB.MDF/True/SqlTable/dbo.tblClient.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admin2\\adminfacilitiesj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admin2\\adminfacilitiesj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\client\\images\\profile\\49\\avatar_male.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\client\\images\\profile\\49\\avatar_male.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\client\\images\\profile\\44\\avatar_male.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\client\\images\\profile\\44\\avatar_male.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\client\\images\\profile\\40\\avatar_female.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\client\\images\\profile\\40\\avatar_female.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\client\\images\\profile\\clientpic.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\client\\images\\profile\\clientpic.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\client\\images\\profile\\avatar_male.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\client\\images\\profile\\avatar_male.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\client\\images\\profile\\avatar_female.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\client\\images\\profile\\avatar_female.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\images\\juice.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\images\\juice.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\images\\avatar_female.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\images\\avatar_female.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\images\\avatar_male.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\images\\avatar_male.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admin2\\searchowner.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admin2\\searchowner.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admin2\\adminhomepage1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admin2\\adminhomepage1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admin2\\searchowner.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admin2\\searchowner.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admins\\searchowner.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admins\\searchowner.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\admins\\searchowner.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\admins\\searchowner.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\client3.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\client3.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\dealprojecttamam\\booking_details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D04037-9A29-49E9-8A65-F5589873B7DB}|DealProjectTamam\\DealProjectTamam.csproj|solutionrelative:dealprojecttamam\\booking_details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jaabe\\Downloads\\DealProjectTamam (5)\\DealProjectTamam\\DealProjectTamam\\CartHotel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jaabe\\Downloads\\DealProjectTamam (5)\\DealProjectTamam\\DealProjectTamam\\CartHotel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Login.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\Login.aspx.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAowHcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:25:09.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterClient.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\RegisterClient.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\RegisterClient.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\RegisterClient.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\RegisterClient.aspx.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAmwD4AAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:23:43.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterClient.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\RegisterClient.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\RegisterClient.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\RegisterClient.aspx",
+              "RelativeToolTip": "DealProjectTamam\\RegisterClient.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-20T02:23:23.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Login.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Login.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Login.aspx",
+              "RelativeToolTip": "DealProjectTamam\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-20T02:23:05.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Home.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\Home.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:12:41.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Home.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Home.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Home.aspx",
+              "RelativeToolTip": "DealProjectTamam\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-19T12:11:12.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VillaCreation.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\VillaCreation.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\AdminS\\VillaCreation.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\VillaCreation.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\AdminS\\VillaCreation.aspx.cs",
+              "ViewState": "AQIAACQEAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:01:21.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VillaCreation.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\VillaCreation.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\AdminS\\VillaCreation.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\VillaCreation.aspx",
+              "RelativeToolTip": "DealProjectTamam\\AdminS\\VillaCreation.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-19T10:54:11.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Active_Booking_Details.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Active_Booking_Details.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Active_Booking_Details.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Active_Booking_Details.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\Active_Booking_Details.aspx.cs",
+              "ViewState": "AQIAAAwCAAAAAAAAAAAswPQBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:18:51.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Owner2Master.Master",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Owner2Master.Master",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Owner2Master.Master",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Owner2Master.Master",
+              "RelativeToolTip": "DealProjectTamam\\Owner2Master.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-17T05:19:53.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminRoomtypeJ.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\AdminRoomtypeJ.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Admin2\\AdminRoomtypeJ.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\AdminRoomtypeJ.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\Admin2\\AdminRoomtypeJ.aspx.cs",
+              "ViewState": "AQIAABYBAAAAAAAAAAAAwGYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:33:18.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminRoomtypeJ.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\AdminRoomtypeJ.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Admin2\\AdminRoomtypeJ.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\AdminRoomtypeJ.aspx",
+              "RelativeToolTip": "DealProjectTamam\\Admin2\\AdminRoomtypeJ.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-12T14:33:14.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "mail_sent.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\mail_sent.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\mail_sent.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\mail_sent.aspx",
+              "RelativeToolTip": "DealProjectTamam\\mail_sent.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-18T08:22:09.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dbo.tblOwner [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/D__FINALFYPWEB_DEALPROJECTTAMAM__3__DEALPROJECTTAMAM_DEALPROJECTTAMAM_APP_DATA_DEALTAMAMDB.MDF/True/SqlTable/dbo.tblOwner.sql",
+              "ToolTip": "dbo.tblOwner [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-18T08:19:27.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Client1.Master",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Client1.Master",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Client1.Master",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Client1.Master",
+              "RelativeToolTip": "DealProjectTamam\\Client1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-18T08:17:54.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Booking_Details.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Booking_Details.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Booking_Details.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Booking_Details.aspx",
+              "RelativeToolTip": "DealProjectTamam\\Booking_Details.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-16T15:15:29.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\BookingDetails.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\BookingDetails.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\BookingDetails.aspx",
+              "RelativeToolTip": "DealProjectTamam\\BookingDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T07:05:41.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartVilla.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\CartVilla.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\CartVilla.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\CartVilla.aspx",
+              "RelativeToolTip": "DealProjectTamam\\CartVilla.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T08:56:38.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\PaymentForm.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\PaymentForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\PaymentForm.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\PaymentForm.aspx.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAADwv5EAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:27:05.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartVilla.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\CartVilla.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\CartVilla.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\CartVilla.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\CartVilla.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:57:04.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegisterOwner.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\RegisterOwner.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\RegisterOwner.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\RegisterOwner.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\RegisterOwner.aspx.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAqwIAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:20:55.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\PaymentForm.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\PaymentForm.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\PaymentForm.aspx",
+              "RelativeToolTip": "DealProjectTamam\\PaymentForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T07:11:45.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Search_hotel.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\Search_hotel.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Admin2\\Search_hotel.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\Search_hotel.aspx",
+              "RelativeToolTip": "DealProjectTamam\\Admin2\\Search_hotel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T09:08:23.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "New_hdetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\New_hdetails.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Admin2\\New_hdetails.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\New_hdetails.aspx",
+              "RelativeToolTip": "DealProjectTamam\\Admin2\\New_hdetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T09:09:20.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NewHDetail.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\NewHDetail.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Admin2\\NewHDetail.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\NewHDetail.aspx",
+              "RelativeToolTip": "DealProjectTamam\\Admin2\\NewHDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T09:10:23.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminHomepage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\AdminHomepage.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\AdminS\\AdminHomepage.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\AdminHomepage.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\AdminS\\AdminHomepage.aspx.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAlwFAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:06:32.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CartHotel.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\DealProjectTamam (5)\\DealProjectTamam\\DealProjectTamam\\CartHotel.aspx",
+              "RelativeDocumentMoniker": "..\\..\\..\\DealProjectTamam (5)\\DealProjectTamam\\DealProjectTamam\\CartHotel.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\DealProjectTamam (5)\\DealProjectTamam\\DealProjectTamam\\CartHotel.aspx",
+              "RelativeToolTip": "..\\..\\..\\DealProjectTamam (5)\\DealProjectTamam\\DealProjectTamam\\CartHotel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T08:57:37.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dbo.tblOwner [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/D__FINAL_FINALDISSERTATION_GOODONE__DEALPROJECTTAMAM_DEALPROJECTTAMAM_APP_DATA_DEALTAMAMDB.MDF/True/SqlTable/dbo.tblOwner.sql",
+              "ToolTip": "dbo.tblOwner [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-17T09:11:49.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterOwner.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\RegisterOwner.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\RegisterOwner.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\RegisterOwner.aspx",
+              "RelativeToolTip": "DealProjectTamam\\RegisterOwner.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T22:20:46.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "New_vdetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\New_vdetails.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\AdminS\\New_vdetails.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\New_vdetails.aspx",
+              "RelativeToolTip": "DealProjectTamam\\AdminS\\New_vdetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T09:03:14.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Search_villa.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\Search_villa.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\AdminS\\Search_villa.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\Search_villa.aspx",
+              "RelativeToolTip": "DealProjectTamam\\AdminS\\Search_villa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T09:01:26.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "client2.Master",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\client2.Master",
+              "RelativeDocumentMoniker": "DealProjectTamam\\client2.Master",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\client2.Master",
+              "RelativeToolTip": "DealProjectTamam\\client2.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T08:58:23.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CartHotel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\DealProjectTamam (5)\\DealProjectTamam\\DealProjectTamam\\CartHotel.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\DealProjectTamam (5)\\DealProjectTamam\\DealProjectTamam\\CartHotel.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\DealProjectTamam (5)\\DealProjectTamam\\DealProjectTamam\\CartHotel.aspx.cs",
+              "RelativeToolTip": "..\\..\\..\\DealProjectTamam (5)\\DealProjectTamam\\DealProjectTamam\\CartHotel.aspx.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAswDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:57:53.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminHomepage.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\AdminHomepage.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\AdminS\\AdminHomepage.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\AdminHomepage.aspx",
+              "RelativeToolTip": "DealProjectTamam\\AdminS\\AdminHomepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T08:16:25.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dbo.tblFacilities [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/D__FINAL_FINALDISSERTATION_GOODONE__DEALPROJECTTAMAM_DEALPROJECTTAMAM_APP_DATA_DEALTAMAMDB.MDF/True/SqlTable/dbo.tblFacilities.sql",
+              "ToolTip": "dbo.tblFacilities [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-17T08:50:50.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Villa_Details.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Villa_Details.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Villa_Details.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Villa_Details.aspx",
+              "RelativeToolTip": "DealProjectTamam\\Villa_Details.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T08:44:41.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClientVilla.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\ClientVilla.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\ClientVilla.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\ClientVilla.aspx",
+              "RelativeToolTip": "DealProjectTamam\\ClientVilla.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T08:37:45.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ClientHotel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\ClientHotel.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\ClientHotel.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\ClientHotel.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\ClientHotel.aspx.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAkwHQAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:32:32.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ClientHotel.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\ClientHotel.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\ClientHotel.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\ClientHotel.aspx",
+              "RelativeToolTip": "DealProjectTamam\\ClientHotel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T08:29:23.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Villa_details.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\Villa_details.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\AdminS\\Villa_details.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\Villa_details.aspx",
+              "RelativeToolTip": "DealProjectTamam\\AdminS\\Villa_details.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-16T19:14:39.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Villa_Details.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Villa_Details.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Villa_Details.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Villa_Details.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\Villa_Details.aspx.cs",
+              "ViewState": "AQIAAEwBAAAAAAAAAAAlwNEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:16:42.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Villa_details.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\Villa_details.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\AdminS\\Villa_details.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\Villa_details.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\AdminS\\Villa_details.aspx.cs",
+              "ViewState": "AQIAADUGAAAAAAAAAAAjwHQFAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:14:58.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "dbo.tblClient [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/D__FINAL_FINALDISSERTATION_GOODONE__DEALPROJECTTAMAM_DEALPROJECTTAMAM_APP_DATA_DEALTAMAMDB.MDF/True/SqlTable/dbo.tblClient.sql",
+              "ToolTip": "dbo.tblClient [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-17T08:28:24.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AdminFacilitiesJ.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\AdminFacilitiesJ.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Admin2\\AdminFacilitiesJ.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\AdminFacilitiesJ.aspx",
+              "RelativeToolTip": "DealProjectTamam\\Admin2\\AdminFacilitiesJ.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T08:27:32.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "avatar_male.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Client\\images\\profile\\49\\avatar_male.jpg",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Client\\images\\profile\\49\\avatar_male.jpg",
+              "ToolTip": "D:\\final\\finalDissertation(goodone)\\DealProjectTamam\\DealProjectTamam\\Client\\images\\profile\\49\\avatar_male.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-17T08:27:13.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "avatar_male.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Client\\images\\profile\\44\\avatar_male.jpg",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Client\\images\\profile\\44\\avatar_male.jpg",
+              "ToolTip": "D:\\final\\finalDissertation(goodone)\\DealProjectTamam\\DealProjectTamam\\Client\\images\\profile\\44\\avatar_male.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-17T08:27:10.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "avatar_female.jpg -  [English (United Kingdom)] - Bitmap [360x360, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Client\\images\\profile\\40\\avatar_female.jpg",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Client\\images\\profile\\40\\avatar_female.jpg",
+              "ToolTip": "D:\\final\\finalDissertation(goodone)\\DealProjectTamam\\DealProjectTamam\\Client\\images\\profile\\40\\avatar_female.jpg -  [English (United Kingdom)] - Bitmap [360x360, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-17T08:27:02.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "clientpic.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Client\\images\\profile\\clientpic.jpg",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Client\\images\\profile\\clientpic.jpg",
+              "ToolTip": "D:\\final\\finalDissertation(goodone)\\DealProjectTamam\\DealProjectTamam\\Client\\images\\profile\\clientpic.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-17T08:26:53.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "avatar_male.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Client\\images\\profile\\avatar_male.jpg",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Client\\images\\profile\\avatar_male.jpg",
+              "ToolTip": "D:\\final\\finalDissertation(goodone)\\DealProjectTamam\\DealProjectTamam\\Client\\images\\profile\\avatar_male.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-17T08:26:51.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "avatar_female.jpg -  [English (United Kingdom)] - Bitmap [360x360, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Client\\images\\profile\\avatar_female.jpg",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Client\\images\\profile\\avatar_female.jpg",
+              "ToolTip": "D:\\final\\finalDissertation(goodone)\\DealProjectTamam\\DealProjectTamam\\Client\\images\\profile\\avatar_female.jpg -  [English (United Kingdom)] - Bitmap [360x360, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-17T08:26:50.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "avatar_male.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\images\\avatar_male.jpg",
+              "RelativeDocumentMoniker": "DealProjectTamam\\images\\avatar_male.jpg",
+              "ToolTip": "D:\\final\\finalDissertation(goodone)\\DealProjectTamam\\DealProjectTamam\\images\\avatar_male.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-17T08:23:52.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "avatar_female.jpg -  [English (United Kingdom)] - Bitmap [360x360, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\images\\avatar_female.jpg",
+              "RelativeDocumentMoniker": "DealProjectTamam\\images\\avatar_female.jpg",
+              "ToolTip": "D:\\final\\finalDissertation(goodone)\\DealProjectTamam\\DealProjectTamam\\images\\avatar_female.jpg -  [English (United Kingdom)] - Bitmap [360x360, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-17T08:23:50.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Juice.png -  [English (United Kingdom)] - PNG [1024x1024, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\images\\Juice.png",
+              "RelativeDocumentMoniker": "DealProjectTamam\\images\\Juice.png",
+              "ToolTip": "D:\\final\\finalDissertation(goodone)\\DealProjectTamam\\DealProjectTamam\\images\\Juice.png -  [English (United Kingdom)] - PNG [1024x1024, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-17T08:23:31.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AdminHomepage1.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\AdminHomepage1.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Admin2\\AdminHomepage1.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\AdminHomepage1.aspx",
+              "RelativeToolTip": "DealProjectTamam\\Admin2\\AdminHomepage1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T08:19:51.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SearchOwner.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\SearchOwner.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Admin2\\SearchOwner.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\SearchOwner.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\Admin2\\SearchOwner.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:19:31.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SearchOwner.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\SearchOwner.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Admin2\\SearchOwner.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Admin2\\SearchOwner.aspx",
+              "RelativeToolTip": "DealProjectTamam\\Admin2\\SearchOwner.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T08:19:01.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Searchowner.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\Searchowner.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\AdminS\\Searchowner.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\Searchowner.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\AdminS\\Searchowner.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:12:42.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Searchowner.aspx",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\Searchowner.aspx",
+              "RelativeDocumentMoniker": "DealProjectTamam\\AdminS\\Searchowner.aspx",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\AdminS\\Searchowner.aspx",
+              "RelativeToolTip": "DealProjectTamam\\AdminS\\Searchowner.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T08:10:55.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Web.config",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Web.config",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Web.config",
+              "RelativeToolTip": "DealProjectTamam\\Web.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-17T07:29:54.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Client3.Master",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Client3.Master",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Client3.Master",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Client3.Master",
+              "RelativeToolTip": "DealProjectTamam\\Client3.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-17T07:14:04.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Booking_Details.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Booking_Details.aspx.cs",
+              "RelativeDocumentMoniker": "DealProjectTamam\\Booking_Details.aspx.cs",
+              "ToolTip": "C:\\Users\\Jaabe\\Downloads\\Dealfinal\\Dealfinal\\DealProjectTamam\\DealProjectTamam\\Booking_Details.aspx.cs",
+              "RelativeToolTip": "DealProjectTamam\\Booking_Details.aspx.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwGMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:24:24.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
